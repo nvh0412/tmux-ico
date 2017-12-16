@@ -1,5 +1,7 @@
 # Tmux ICO tracking
 
+![Image of tmux-ico](https://imgur.com/mjiRzpm)
+
 Enables displaying price of any ICOs in tmux status-right.
 
 ## Installation
