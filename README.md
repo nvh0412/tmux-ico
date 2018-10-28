@@ -1,4 +1,4 @@
-# Tmux ICO tracking
+# Tmux ICO tracking - Deprecated
 
 ![Image of tmux-ico](https://i.imgur.com/mjiRzpm.png)
 
